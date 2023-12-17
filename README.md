@@ -2,7 +2,11 @@
 
 ###
 
-<h3 align="left">front-end web development & data analysis entry-level Excel & Power BI.<br>Riyadh, Saudi Arabia</h3>
+<h3 align="left">front-end web development & data analysis entry-level Excel & Power BI.</h3>
+
+###
+
+<h6 align="left">Riyadh, Saudi Arabia</h6>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nujudala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
