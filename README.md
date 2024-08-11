@@ -98,7 +98,7 @@
 </div>
 
 
-<h2 align="left">Tools I Use to For content creation</h2>
+<h2 align="left">Tools I Use For content creation</h2>
 
 ###
 
